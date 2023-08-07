@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "IdleDetector",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Guy (Drakynfly) Lundvall",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "IdleDetector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
